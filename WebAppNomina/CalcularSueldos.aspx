@@ -11,7 +11,7 @@
         <nav>
                     <ul id="menu">
                         <li>Menú</li>
-                        <li>Consultar Sueldos</li>
+                        <li>Consultar Sueldos Empleados</li>
                         <li><a id="A2" runat="server" href="~/Insertar.aspx">Insertar</a></li>
                         <li><a id="A1" runat="server" href="~/Editar.aspx">Editar</a></li>
                         <li><a id="A3" runat="server" href="~/Consultar.aspx">Consultar</a></li>
